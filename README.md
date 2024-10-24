@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+possibly adding some kind of animation/ movemnet to the top of the website / header would make the website more appealing. Also possibly adding some kind of sound / music to the over all page.
