@@ -16,6 +16,7 @@
   font-size: 16px;
   line-height: 20px;
   color: #000;
+  min-height: 60px;
 }
 
 .form__fieldset {
@@ -65,6 +66,4 @@
   display: flex;
   justify-content: center;
   gap: 12px;
-  color: #1878dc;
-  background-image: url(../images/check.svg);
 }

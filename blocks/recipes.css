@@ -28,8 +28,12 @@
 .recipes__videos {
   display: flex;
   justify-content: center;
-  gap: 100px;
+  gap: 40px;
   list-style-type: none;
+  height: 480px;
+  width: 273px;
+  border: none;
+  width: 100%;
 }
 
 .recipes__video-caption {
@@ -40,4 +44,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 0;
+  margin-top: 24px;
+  margin-bottom: 215px;
 }
