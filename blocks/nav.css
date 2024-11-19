@@ -10,15 +10,7 @@
   height: 39px;
 }
 
-.nav__link {
-  text-decoration: none;
-  color: #000;
-  transition: opacity 0.5s;
-  cursor: pointer;
-  list-style-type: none;
-  display: flex;
-  gap: 26px;
-}
+/* Hi im not sure what else needs to be done here. When I make the corrections asked it throws off my website*/
 
 .nav__links {
   padding: 0;
@@ -28,6 +20,13 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  text-decoration: none;
+  color: #000;
+  transition: opacity 0.5s;
+  cursor: pointer;
+  list-style-type: none;
+  display: flex;
+  gap: 26px;
 }
 
 .nav__link:hover {
